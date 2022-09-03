@@ -1,0 +1,23 @@
+body {font: optional;
+    color: rgb(227, 227, 219);
+    text-align: center;
+    top: 15px;
+    background:linear-gradient(to right,rgb(228, 110, 237),rgb(16, 211, 224));
+
+
+}
+
+h1{
+    font:600 ,serif;
+    color:rgb(240, 239, 233);
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing:13px;
+
+}
+
+h3{font:600 ,sans-serif;
+    color:rgb(198, 206, 213);
+    text-align:center;
+    text-transform: uppercase;
+}
